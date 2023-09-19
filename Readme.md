@@ -8,6 +8,7 @@ Objetivo
 
 Desenvolver um projeto voltado a gestão de dados de um centro universitário onde será construído o diagrama de casos de uso para fazer a representação visual do projeto e o diagrama de classe que é a representação da estrutura e relações das classes que servem de modelo para objetos e logo em seguida fazer a prototipação do projeto para facilitar o entendimento dos requisitos da aplicação 
 2.	Diagrama de casos de uso.
+![Diagrama de casos](https://github.com/gruposenac33/Projeto-integrador/assets/144973922/7ce0df72-4582-48a8-81da-51ec943ffdfa)
 
 3.	Cenários de casos de usos
 
@@ -156,3 +157,16 @@ Cenário Alternativo 2: Cancelar o registro
   O sistema cancela o registro em andamento e retorna à página anterior.
   Pós-condição: O sistema não registra o aluno e retorna à página anterior.
 
+![diagrama de classe](https://github.com/gruposenac33/Projeto-integrador/assets/144973922/63d96f3e-383c-4967-99c0-1cdaccead3a4)
+
+![pagina de cadastro](https://github.com/gruposenac33/Projeto-integrador/assets/144973922/8ca90284-1a2d-4d20-bab4-d490cd0934be)
+
+![cadastro de alunos](https://github.com/gruposenac33/Projeto-integrador/assets/144973922/2f57469c-5b64-428b-adb7-6d77e51f7ed9)
+
+![Cadastro de pessoas fisicas](https://github.com/gruposenac33/Projeto-integrador/assets/144973922/6e3a370b-7e1d-46fb-9c99-0f96b533f36e)
+
+![cadastro de pessoas juridicas](https://github.com/gruposenac33/Projeto-integrador/assets/144973922/91d776fe-3347-492c-9384-e534ec9fc25e)
+
+![Cadastro Fornecedor](https://github.com/gruposenac33/Projeto-integrador/assets/144973922/f391e657-bdb8-47e0-8511-8a5d2cb74668)
+
+![Cadastrol de professores](https://github.com/gruposenac33/Projeto-integrador/assets/144973922/a2526f76-950d-4fce-88b7-cb3046095538)
